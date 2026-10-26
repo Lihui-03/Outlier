@@ -1,0 +1,13 @@
+{
+  "name": "hltv-bridge",
+  "version": "1.0.0",
+  "description": "Thin CLI bridge between Python and gigobyte/HLTV",
+  "type": "module",
+  "main": "index.mjs",
+  "dependencies": {
+    "hltv": "3.5.0"
+  },
+  "engines": {
+    "node": ">=16"
+  }
+}
